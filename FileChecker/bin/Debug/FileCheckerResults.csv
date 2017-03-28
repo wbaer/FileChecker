@@ -1,0 +1,10 @@
+Condition,File Name,Invalid Character,Path,Rule Violation
+Error,.New Text Document.File,,C:\Users\wbaer\Desktop\Sample Folder\.New Text Document.File,Files cannot be empty.
+Error,.New Text Document.txt,,C:\Users\wbaer\Desktop\Sample Folder\.New Text Document.txt,Files cannot be empty.
+Error,Empty Document.txt,,C:\Users\wbaer\Desktop\Sample Folder\Empty Document.txt,Files cannot be empty.
+Error,New%20Worksheet.xlsx,%,C:\Users\wbaer\Desktop\Sample Folder\New%20Worksheet.xlsx,You cannot use the following character anywhere in a file name %.
+Error,New%20Worksheet[#1].xlsx,%#,C:\Users\wbaer\Desktop\Sample Folder\New%20Worksheet[#1].xlsx,You cannot use the following character anywhere in a file name %#.
+Error,PowerPoint Presentation.pptx,,C:\Users\wbaer\Desktop\Sample Folder\PowerPoint Presentation.pptx,Files cannot be empty.
+Error,Rich Text Document..rtf,..,C:\Users\wbaer\Desktop\Sample Folder\Rich Text Document..rtf,You cannot use the period character consecutively in the middle of a file name.
+Warning,_Document with Text.txt,_,C:\Users\wbaer\Desktop\Sample Folder\_Document with Text.txt,If you use an underscore character (_) at the beginning of a file name the file will be a hidden file when using Open in Explorer.
+
